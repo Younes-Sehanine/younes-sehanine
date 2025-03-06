@@ -1,7 +1,11 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# Hello World!, I'm Younes, a Data Analyst 👋🏼:
+#### Management & Data Enthusiast:
+ I'm currently studying management while actively developing my data analysis skills. I believe that blending analytical techniques with business strategy creates powerful opportunities for innovation.<br> 
+### Freelancer:
+ I work as a freelancer, taking on projects that allow me to apply my data analysis expertise in real-world settings.<br>
+ currently working on my own [webpage](not_published_yet)<br>
+### Lifelong Learner:
+  Every project is a chance to learn, grow, and refine my craft. I'm committed to staying up-to-date with the latest tools and trends in the field. <br>
 
 
 # 💻 Tech Stack:
