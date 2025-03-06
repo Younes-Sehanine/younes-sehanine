@@ -1,10 +1,9 @@
+
 # 💫 About Me:
 Management & Data Enthusiast: I'm currently studying management while actively developing my data analysis skills. I believe that blending analytical techniques with business strategy creates powerful opportunities for innovation.<br>Freelancer: I work as a freelancer, taking on projects that allow me to apply my data analysis expertise in real-world settings.<br>Lifelong Learner: Every project is a chance to learn, grow, and refine my craft. I'm committed to staying up-to-date with the latest tools and trends in the field. <br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/younes-sehanine) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sehanine.younes.ys@gmail.com) 
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -34,8 +33,12 @@ Management & Data Enthusiast: I'm currently studying management while actively d
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-###
----
-[![](https://visitcount.itsvg.in/api?id=Younes-Sehanine&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
