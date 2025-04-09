@@ -3,7 +3,7 @@
  I'm currently studying management while actively developing my data analysis skills. I believe that blending analytical techniques with business strategy creates powerful opportunities for innovation.<br> 
 ### Freelancer:
  I work as a freelancer, taking on projects that allow me to apply my data analysis expertise in real-world settings.<br>
- currently working on my own [webpage](https://younes-sehanine.netlify.app/bank-loan-report)<br>
+ currently working on my own [webpage](https://younes-sehanine.netlify.app/)<br>
 ### Lifelong Learner:
   Every project is a chance to learn, grow, and refine my craft. I'm committed to staying up-to-date with the latest tools and trends in the field. <br>
 
